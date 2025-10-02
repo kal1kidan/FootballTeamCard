@@ -51,12 +51,12 @@ This project combines **array methods (map, filter)** with **DOM manipulation** 
 
 ---
 ## 🚀 Live Demo
-🔗 [Live Demo]([https://footballteamcard1.netlify.app/])  
+🔗 [Live Demo](https://footballteamcard1.netlify.app/)  
 
 ---
 
 ## 💻 GitHub Repository
-🔗 [GitHub Repo]([https://github.com/kal1kidan/FootballTeamCard])
+🔗 [GitHub Repo](https://github.com/kal1kidan/FootballTeamCard)
 
 ---
 ## 📸 Sneak Peek
