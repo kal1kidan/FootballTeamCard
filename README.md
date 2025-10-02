@@ -50,8 +50,15 @@ This project combines **array methods (map, filter)** with **DOM manipulation** 
 - **JavaScript (ES6+)** – DOM manipulation, `map()`, `filter()`, event handling  
 
 ---
+## 🚀 Live Demo
+🔗 [Live Demo]([https://your-live-demo-link.com](https://footballteamcard1.netlify.app/))  
 
+---
 
+## 💻 GitHub Repository
+🔗 [GitHub Repo]([https://github.com/yourusername/football-team-cards](https://github.com/kal1kidan/FootballTeamCard))  
+
+---
 ## 📸 Sneak Peek
 ![Football Team Cards Screenshot](image/screenshot.png)  
 
